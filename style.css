@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    font-family: "Noto Serif", serif;
+    text-align: center;
+    background: url('images/background.png');
+    background-size: cover;
+    
+}
+a{
+    color: black;
+    
+}
+
+#welcome{
+    color: darkblue;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    font-size: 100px;
+    margin-bottom: 100px;
+ 
+
+}
+h1,h2,h3{
+    text-shadow: 0 0 2px #f713f7;
+}
+
+.img{
+    margin-top: 20px;
+    width: 200px;
+}
+
+.info{
+    margin: 20px;
+    background-color:transparent; /*papayawhip;*/
+    width: 600px;
+    padding-bottom: 20px;
+    border-radius: 5%;
+    display: inline-block;
+    border: 10px solid pink;
+}
+
+.info:hover{
+    background-color: rgb(216, 153, 179);
+}
+.heading:hover{
+    font-size:20px;
+}
+a:hover{
+    color: #fff;
+}
+.text{ 
+    margin: 20px;
+    background-color:transparent; /*papayawhip;*/
+    width: 600px;
+    padding-bottom: 20px;
+    border-radius: 5%;
+    display: inline-block;
+    border: 10px solid pink;
+} 
