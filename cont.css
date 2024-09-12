@@ -1,0 +1,31 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0 0 10px pink;
+    text-align: center;
+    background: url('images/cont-img.png');
+    background-size: cover;
+}
+
+h1{
+    margin-top: 200px;
+    line-height: 100px;
+    font-size: 60px;  
+}
+
+.btn{
+    width: 200px;
+    display: inline-block;
+    justify-content: center;
+    padding: 30px 60px;
+    margin: 20px 30px;
+    line-height: 2px;
+    font-size: 20px;
+    border: 10px solid peachpuff;
+    border-radius: 8%;
+    background-color: antiquewhite;
+
+}
+a{
+    color: black;
+   
+}
